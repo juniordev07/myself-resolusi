@@ -4,3 +4,4 @@ Resolusi Diri Di Tahun 2023
 3. Lebih memperdalam HTML, CSS dan PHP
 4. Mempelajari JS sampe tuntas
 5. Membuat Portfolio serta langsung menyelesaikan studycase
+6. Menguasai Laravel
